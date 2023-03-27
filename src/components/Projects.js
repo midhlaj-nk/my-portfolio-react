@@ -12,9 +12,12 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+            All of the apps I've built were developed using the React framework,
+            which is known for its high-performance and scalability. React
+            allows for the creation of complex, interactive user interfaces that
+            are easy to maintain and update. With its component-based
+            architecture and virtual DOM, React enables faster rendering and
+            improved efficiency.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

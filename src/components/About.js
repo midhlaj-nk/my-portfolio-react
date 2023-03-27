@@ -11,9 +11,16 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            As a BCA Bachelor of Computer Application graduate, I have gained
+            extensive knowledge and experience in the field of research and
+            development. I am proficient in a variety of programming languages
+            and technologies, including JavaScript, React, Odoo, Plone CMS,
+            Python, Postgresql, Node, and GraphQL. My expertise in these areas
+            has allowed me to develop and maintain complex software solutions,
+            while also staying up-to-date with the latest industry trends and
+            best practices. With a strong foundation in computer science and a
+            commitment to continuous learning, I am equipped to tackle any
+            technical challenge and deliver exceptional results.
           </p>
           <div className="flex justify-center">
             <a
